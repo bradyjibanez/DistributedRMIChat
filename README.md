@@ -1,3 +1,4 @@
+----------------To Run RMI Group Chat Application---------------- 
 In order to compile and run this application, it is necessary to follow these steps:<br />
 <br />
 1)Open a new terminal window <br />
